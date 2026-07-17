@@ -3,10 +3,8 @@ Rowwy is a hand-movement control car which uses Mecanum wheels.
 
 ### CAD Model:
 It has two seperate bodies.
-1. Controller :
- ![Complete Controller](Asset/Controller.png)
-2. Rowwy :
- ![Complete Rowwy](Asset/Rowwy.png)
+Controller : ![Complete Controller](Asset/Controller.png)
+Rowwy : ![Complete Rowwy](Asset/Rowwy.png)
 
 ### PCB:
 Here's my PCB! It was made in KiCad. 
