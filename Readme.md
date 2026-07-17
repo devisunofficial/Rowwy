@@ -38,4 +38,4 @@ This car and controller uses C++ firmware and Arduino IDE for Flashing.
 |MPU6050|Calculating Handmovement|1|Robu|
 |Battery(1)|For Controller|1|Robu|
 |SkyRC iMAX B6 Mini|For charging Battery(0)|1|Robu|
-|12V 5A DC adapter|to Power SkyRC iMAX|1|Robu|
+|12V 5A DC adapter|To Power SkyRC iMAX|1|Robu|
